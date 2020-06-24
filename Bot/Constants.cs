@@ -8,23 +8,23 @@
     {
 
         /// <summary>The prefix that the bot will use for the commands.</summary>
-        public const string Prefix = "!";
+        public const string Prefix = "#";
 
 
         /// <summary>The username of the owner of the bot.</summary>
-        public const string OwnerUsername = "Brammys#0001";
+        public const string OwnerUsername = "nek0d3r#1407";
 
 
         /// <summary>The id of the owner of this bot.</summary>
-        public const ulong OwnerId = 308707063993860116;
+        public const ulong OwnerId = 254497546414718976;
 
 
         /// <summary>The id of the client.</summary>
-        public const ulong BotId = 541336442979483658;
+        public const ulong BotId = 725435874791129102;
 
 
         /// <summary>The username of the client.</summary>
-        public const string BotUsername = "BotTemplate#8315";
+        public const string BotUsername = "Savage Roller#3470";
 
 
         /// <summary>The string for a green status emoji.</summary>
@@ -40,7 +40,7 @@
 
 
         /// <summary>The id of the support server.</summary>
-        public const ulong SupportServerId = 532980716787597314;
+        public const ulong SupportServerId = 379871987138560000;
 
 
         /// <summary>The id of the event log server.</summary>
@@ -48,19 +48,19 @@
 
 
         /// <summary>The id of the disconnect event channel.</summary>
-        public const ulong DisconnectEventChannelId = 541323020854231061;
+        public const ulong DisconnectEventChannelId = 379871987138560000;
 
 
         /// <summary>The id of the connect event channel.</summary>
-        public const ulong ConnectEventChannelId = 541323020854231061;
+        public const ulong ConnectEventChannelId = 379871987138560000;
 
 
         /// <summary>The id of the latency updated event channel.</summary>
-        public const ulong LatencyUpdatedEventChannelId = 541323045529190412;
+        public const ulong LatencyUpdatedEventChannelId = 379871987138560000;
 
 
         /// <summary>The id of the join guild event channel.</summary>
-        public const ulong JoinGuildChannelId = 541336296724103169;
+        public const ulong JoinGuildChannelId = 379871987138560000;
 
 
         /// <summary>The number of seconds the user has to wait before using another command.</summary>
